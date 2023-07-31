@@ -1,8 +1,5 @@
 # Semi_OJJANG
 MVC - Model2 - 중고 의류 쇼핑몰 옺장
-# SpringBoot-Project-MEGABOX
-스프링 부트 + JSP 파싱_영화 예매 사이트
-
 
 ## 🖥️ 프로젝트 소개
 의류 중고거래 플랫폼 옷장입니다
