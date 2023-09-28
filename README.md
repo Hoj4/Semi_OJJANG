@@ -1,4 +1,4 @@
-# Semi_OJJANG
+# Semi Project - OJJANG
 MVC - Model2 - 중고 의류 쇼핑몰 옺장
 
 ## 🖥️ 프로젝트 소개
