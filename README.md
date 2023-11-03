@@ -34,10 +34,9 @@ MVC패턴으로 구현한 의류 중고거래 플랫폼 옷장
 - 지도 API 연동
 
 ## 📷 VIEW
-![스크린샷 2023-11-03 161844](https://github.com/Hoj4/Semi_OJJANG/assets/118800372/a616ec6e-467b-4c20-8933-465730d80e55)
-![스크린샷 2023-11-03 161851](https://github.com/Hoj4/Semi_OJJANG/assets/118800372/2c690ea6-07b2-4712-9f0a-9803859c4dea)
-![스크린샷 2023-11-03 161901](https://github.com/Hoj4/Semi_OJJANG/assets/118800372/cf0f7e82-c157-4045-af82-d76e76f3b726)
-
+<img src="https://github.com/Hoj4/Semi_OJJANG/assets/118800372/a616ec6e-467b-4c20-8933-465730d80e55" width="800" height="600">
+<img src="https://github.com/Hoj4/Semi_OJJANG/assets/118800372/2c690ea6-07b2-4712-9f0a-9803859c4dea" width="800" height="700">
+<img src="https://github.com/Hoj4/Semi_OJJANG/assets/118800372/cf0f7e82-c157-4045-af82-d76e76f3b726" width="800" height="700">
 
 
 ## 회고
