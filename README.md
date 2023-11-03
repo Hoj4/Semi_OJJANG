@@ -38,6 +38,8 @@ MVC패턴으로 구현한 의류 중고거래 플랫폼 옷장
 <img src="https://github.com/Hoj4/Semi_OJJANG/assets/118800372/2c690ea6-07b2-4712-9f0a-9803859c4dea" width="800" height="700">
 <img src="https://github.com/Hoj4/Semi_OJJANG/assets/118800372/cf0f7e82-c157-4045-af82-d76e76f3b726" width="800" height="700">
 
+## ERD
+![image](https://github.com/Hoj4/Semi_OJJANG/assets/118800372/44af9809-a94b-463c-a965-4e6efb13fde9)
 
 ## 회고
 잘한 점 <br>
