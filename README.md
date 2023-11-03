@@ -17,10 +17,12 @@ MVC패턴으로 구현한 의류 중고거래 플랫폼 옷장
  - 팀원 : 김광원 - 로그인/로그아웃, 회원가입/회원탈퇴
 
 ### ⚙️ 개발 환경
-- `Java 11`
-- `JDK 11.0.15`
-- **Database** : MYSQL
-- **ORM** : Mybatis
+개발 도구 : <br>
+ Eclipse / Mysql WorkBench / Github <br>
+언어 : <br>
+ JavaSE-11 / Javascript / JSP / JQuerry / Ajax / HTML5 / CSS3 <br>
+서버 :  <br>
+ Apache Tomcat v9.0 <br>
 
 ## 📌 주요 기능
 
