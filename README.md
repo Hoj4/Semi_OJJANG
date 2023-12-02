@@ -1,5 +1,7 @@
 # Semi Project - OJJANG
 
+<img src="https://github.com/Hoj4/Semi_OJJANG/assets/118800372/2c45557c-b987-4e02-8f2a-900cb67679fd" alt="그림01-removebg-preview" width="350" height="200">
+
 ## 🖥️ 프로젝트 소개
 MVC패턴으로 구현한 의류 중고거래 플랫폼 옷장
 <br>
